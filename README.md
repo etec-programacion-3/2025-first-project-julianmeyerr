@@ -1,5 +1,5 @@
 # 2025-first-project-julianmeyerr
-
+Alumno: Julian Meyer
 Este proyecto es un programa en Python que imprime tres líneas de texto en la consola:
 
 1. "Hola Mundo" - Un saludo inicial.
